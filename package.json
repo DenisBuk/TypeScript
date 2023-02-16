@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^4.9.5"
+  },
+  "name": "typescript",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DenisBuk/TypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DenisBuk/TypeScript/issues"
+  },
+  "homepage": "https://github.com/DenisBuk/TypeScript#readme"
+}
